@@ -1,0 +1,5 @@
+Faire une page de garde
+
+Mettre dans l'entete : 
+			- titre de la partie (section)
+			- logo GSF
